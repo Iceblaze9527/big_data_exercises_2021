@@ -1,7 +1,5 @@
 # Leona's Repo for the exercises of Big Data HS2021.
 
-This repository hosts the weekly exercise sheets of the [Big Data course](https://systems.ethz.ch/education/courses/2021-autumn/big-data.html) at ETH Zurich.
-
 ## Docker Compose
 
 The exercises sheets heavily rely on [Docker Compose](https://docs.docker.com/compose/). In short, Docker Compose allows us to define software environments that you can bring up on your own computer (ideally) with a single command. In the following, we describe how to install it and how to solve problems if they occur.
